@@ -1,2 +1,1 @@
-# PEM-fuel-cell
-Design of a 5 kW electrical power generation unit via PEM-fuel cell, utilizing steam methane reforming for hydrogen generation
+Developed a MATLAB-based model for a Proton Exchange Membrane (PEM) fuel cell system, capable of generating 5 kW electrical power.Optimized value of operating temperature, current density, cell area and number of fuel cells were determined.Generated i–V characteristics and efficiency vs current density plots across different operating temperatures, enabling performance comparison and sensitivity analysis.A steam methane reformer was also designed for Hydrogen generation and was coupled with the fuel cell.
